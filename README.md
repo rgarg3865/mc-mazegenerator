@@ -1,3 +1,7 @@
+Watch the 2 videos for a demonstration of the functionality of the program: https://rmiteduau-my.sharepoint.com/:f:/g/personal/s4008144_student_rmit_edu_au/EiVDyNKGonRNpZw5n2bwVTABr23LvpTnAGGFhMcpnP0ZIQ?e=0UUqjv
+
+---
+
 ### Contributors
 - **Armaan Singh Gill** - [GitHub: gill-armaan](https://github.com/gill-armaan)
 - **Rahul Garg** - [GitHub: rgarg3865](https://github.com/rgarg3865)
@@ -22,7 +26,3 @@
 | `StackMan.h`          | Ishpreet                          | Stack implementation for Maze generation     |
 | `Terraform.cpp/h`     | Armaan (leading), Rahul           | Class to terraform the maze                  |
 | `Tests`               | All                               | Folder for all test cases for the project    |
-
----
-
-Watch the 2 videos for a demonstration of the functionality of the program: https://rmiteduau-my.sharepoint.com/:f:/g/personal/s4008144_student_rmit_edu_au/EiVDyNKGonRNpZw5n2bwVTABr23LvpTnAGGFhMcpnP0ZIQ?e=0UUqjv
